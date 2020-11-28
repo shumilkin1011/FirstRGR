@@ -1,0 +1,29 @@
+C:\Users\Sergey\source\repos\MyRGR\bin\Debug\RGR_0.1.exe.config
+C:\Users\Sergey\source\repos\MyRGR\bin\Debug\RGR_0.1.exe
+C:\Users\Sergey\source\repos\MyRGR\bin\Debug\RGR_0.1.pdb
+C:\Users\Sergey\source\repos\MyRGR\obj\Debug\RGR_SHUMILKIN.Form1.resources
+C:\Users\Sergey\source\repos\MyRGR\obj\Debug\RGR_0._1.Properties.Resources.resources
+C:\Users\Sergey\source\repos\MyRGR\obj\Debug\RGR_SHUMILKIN.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\MyRGR\obj\Debug\RGR_SHUMILKIN.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\MyRGR\obj\Debug\RGR_0.1.exe
+C:\Users\Sergey\source\repos\MyRGR\obj\Debug\RGR_0.1.pdb
+C:\Users\Sergey\source\repos\MyRGR\obj\Debug\RGR_SHUMILKIN.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\obj\Debug\RGR_SHUMILKIN.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\obj\Debug\RGR_SHUMILKIN.Form1.resources
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\obj\Debug\RGR_0._1.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\obj\Debug\RGR_SHUMILKIN.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\obj\Debug\RGR_SHUMILKIN.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\obj\Debug\RGR_0.1.exe
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\obj\Debug\RGR_0.1.pdb
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\bin\Debug\RGR_0.1.exe.config
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\bin\Debug\RGR_0.1.exe
+C:\Users\Sergey\Desktop\Лаб. работы\4 семестр\Комп. Графика\РГР\RGR_SHUMILKIN\bin\Debug\RGR_0.1.pdb
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\old2\RGR_SHUMILKIN\bin\Debug\RGR_0.1.exe.config
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\old2\RGR_SHUMILKIN\bin\Debug\RGR_0.1.exe
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\old2\RGR_SHUMILKIN\bin\Debug\RGR_0.1.pdb
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\old2\RGR_SHUMILKIN\obj\Debug\RGR_SHUMILKIN.csprojAssemblyReference.cache
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\old2\RGR_SHUMILKIN\obj\Debug\RGR_SHUMILKIN.Form1.resources
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\old2\RGR_SHUMILKIN\obj\Debug\RGR_0._1.Properties.Resources.resources
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\old2\RGR_SHUMILKIN\obj\Debug\RGR_SHUMILKIN.csproj.GenerateResource.cache
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\old2\RGR_SHUMILKIN\obj\Debug\RGR_0.1.exe
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\old2\RGR_SHUMILKIN\obj\Debug\RGR_0.1.pdb
